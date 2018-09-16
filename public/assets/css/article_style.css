@@ -1,0 +1,62 @@
+#txt_articlename{
+    width:50%;
+}
+.articleadd{
+    margin-top: 30px;
+}
+body{
+    background-color: wheat;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+img{
+    border: 10px whitesmoke solid;
+    margin-right: 30px;
+}
+.jumbotron{
+    background-image: url("../img/scrape.jpg");
+
+}
+h3{
+    margin: 10px auto 20px auto;
+}
+h1{
+    color:white;
+}
+h2{
+    color:white;
+}
+h3{ margin: 0px 0px 20px 20px;
+    color:rgb(97, 6, 6);
+}
+p{
+    color:rgb(97, 6, 6);
+}
+.articleadd{
+    background-color: rgb(97, 6, 6);
+    border: rgb(97, 6, 6);
+}
+.btn{
+    border: rgb(97, 6, 6) 1px solid;
+    color:rgb(97, 6, 6);
+    margin:0 10px;
+
+}
+.btn:hover{
+    background-color: rgb(97, 6, 6);
+    border: rgb(97, 6, 6) 1px solid;
+    color:white
+}
+#txt_articlename{
+    background-color: whitesmoke;
+    border: rgb(97, 6, 6) 1px solid;
+
+}
+hr{
+    border: rgb(97, 6, 6)1px ridge;
+ 
+}
+.card-header{
+    background-color: rgb(97, 6, 6) ;
+    border: rgb(97, 6, 6) 1px solid;
+    color:white;
+}
